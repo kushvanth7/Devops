@@ -1,1 +1,3 @@
 # Devops
+DevOps is a set of software development practices that combines software development and information technology operations to shorten the systems development life cycle while delivering features, fixes, and updates frequently in close alignment with business objectives. As DevOps intends to be a cross-functional mode of working, those that practice the methodology use different sets of tools referred to as "tool chains" rather than a single one. These toolchains are expected to fit into one or more of the following categories - reflective of key aspects of the development and delivery process.
+
